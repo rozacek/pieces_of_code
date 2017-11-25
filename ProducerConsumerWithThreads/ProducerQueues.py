@@ -6,7 +6,7 @@ from threading import Lock  # no reentrant Lock
 
 
 """
-Class EventsQueue
+Class ProducerQueues
 
 """
 
